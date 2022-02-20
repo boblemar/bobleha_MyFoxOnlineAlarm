@@ -1,0 +1,11 @@
+
+{
+    "domain": "bobleha_MyFoxOnlineAlarm",
+    "name": "MyFox Online Alarm",
+    "documentation": "https://github.com/boblemar/bobleha_MyFoxOnlineAlarm",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["requests==2.27.1"],
+    "iot_class": "local_polling",
+    "version": "0.1.0"
+  }
